@@ -1,0 +1,9 @@
+{
+  "name": "chat33",
+  "version": "1.0.0",
+  "mcpServers": {
+    "chat33": {
+      "httpUrl": "https://chat33.io/api/mcp/mcp"
+    }
+  }
+}

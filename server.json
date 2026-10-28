@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.chat33/chat33",
+  "title": "Chat33",
+  "description": "Publish to 8 social networks, answer Instagram and Facebook DMs, build comment-to-DM flows.",
+  "version": "1.0.0",
+  "websiteUrl": "https://chat33.io/mcp",
+  "repository": {
+    "url": "https://github.com/chat33-io/chat33-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://chat33.io/api/mcp/mcp"
+    }
+  ]
+}
